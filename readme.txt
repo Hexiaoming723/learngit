@@ -2,5 +2,4 @@ My name is He.xiaoming.
 I am from China.
 I like to eat fruit.
 
-sldfjso
-sf
+sldfj
